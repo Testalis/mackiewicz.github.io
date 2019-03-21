@@ -549,6 +549,10 @@ margin-right:5px;
 .user-data-labels, .user-data-display{
   flex:0 0 50%;
 }
+.user-data-change{
+  flex:0 0 50%;
+  max-width: 150px;
+}
 .user-data-labels>p{
   border-left:2px solid #333;
   padding-left: 5px;
