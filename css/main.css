@@ -381,7 +381,7 @@ margin-right:5px;
 }
 .product-listed{
   border:1px solid #ccc;
-
+  padding: 10px; 
   display:flex;
   align-items: stretch;
 }
